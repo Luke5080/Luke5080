@@ -1,4 +1,8 @@
-## Hi there 👋
+* Avid programmer working in a variety of different projects, with interests in areas such as:*
+* Networking
+* Cloud
+* Automation
+
 
 <!--
 **Luke5080/Luke5080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
