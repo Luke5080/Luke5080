@@ -1,4 +1,4 @@
-* Avid programmer working in a variety of different projects, with interests in areas such as:*
+*Avid programmer working in a variety of different projects, with interests in areas such as:*
 * Networking
 * Cloud
 * Automation
