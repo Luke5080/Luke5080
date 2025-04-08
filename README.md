@@ -2,6 +2,7 @@
 * Networking
 * Cloud
 * Automation
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luke5080&theme=tokyonight)
 
 
 <!--
