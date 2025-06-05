@@ -1,7 +1,7 @@
 *Avid programmer working in a variety of different projects, with interests in areas such as:*
 * Networking
 * Cloud
-* Automation
+* Cybersecurity
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luke5080&hide=dockerfile&theme=tokyonight)
